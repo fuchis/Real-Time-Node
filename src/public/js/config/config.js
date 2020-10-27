@@ -1,1 +1,1 @@
-const HOST = `${APP_URL}`;
+const HOST = `${APP_HOST}`;
